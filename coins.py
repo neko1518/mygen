@@ -1,5 +1,5 @@
 parameters = {
-    "community-link": "http://aminoapps.com/c/" 
+    "community-link": "http://aminoapps.com/c/Nxnxbdj" 
 }
 
 import os
